@@ -8,7 +8,7 @@ This data set includes 1045 Pokemons, including their number, name, and basic st
 
 This are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (NOT pokemon cards or Pokemon Go).
 
-The data as described by Shubham Chambhare is:
+The data as described by Shubham Chambhare which contains the below info:
 
 #: ID for each pokemon
 Name: Name of each pokemon
